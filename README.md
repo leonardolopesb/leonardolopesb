@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Bem-vindo(a) ao meu perfil!
 
-<!--
-**leonardolopesb/leonardolopesb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Leonardo, sou um desenvolvedor apaixonado por tecnologia, especialmente focado no desenvolvimento web e aplicações móveis.  
 
-Here are some ideas to get you started:
+🎯 Atualmente trabalhando como estagiário em **Full Stack** no **Tribunal de Justiça de Pernambuco**.
+<br/>
+💻 Linguagens utilizadas: **C#, ASP.NET Core 8, Radzen Blazor e Entity Framework Core**.
+<br/>
+📘 Aprendendo mais sobre: **C#**, **.NET Core**, **React [JS, TS e Native]**, **Node.js** e **Kotlin [Jetpack Compose]**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias & Ferramentas
+
+![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nodejs,html,css,mysql,git,github,kotlin,androidstudio,vscode,figma)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leonardolopesb&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardolopesb&layout=compact&langs_count=8&theme=tokyonight" height="180" />
+</p>
+
+---
+
+## 📌 Projetos
+
+- 🔗 [Mete Sangue](https://github.com/Mete-Sangue) – Aplicativo em React Native que conecta doadores e receptores de sangue.
+- 💻 [Automação e Scraping](https://github.com/leonardolopesb/scraper_BGC) – Pesquisa de dados, utilizando JavaScript e a biblioteca Puppeteer.
+- 📱 [Pedra, papel ou tesoura?](https://github.com/leonardolopesb/JokenPo) – Aplicativo Android com Kotlin, XML e SQLite.
+- ⚖️ [TJPE /ajuda](https://www.tjpe.jus.br/ajuda/) **EM BREVE** – Reformulação de um novo site moderno.
+
+---
+
+## 🌐 Vamos fazer uma conexão?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardolopesb/)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardolopbraga@gmail.com)  
