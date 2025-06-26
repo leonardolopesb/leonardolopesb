@@ -1,12 +1,6 @@
-# 👋 Bem-vindo(a) ao meu perfil!
+# 👋 Olá! Meu nome é Leonardo
 
-Meu nome é Leonardo, sou um desenvolvedor apaixonado por tecnologia, especialmente focado em desenvolvimento web e aplicações móveis.  
-
-🎯 Atualmente trabalhando como estagiário em **Full Stack** no **Tribunal de Justiça de Pernambuco**.
-<br/>
-💻 Linguagens utilizadas: **C#, .NET Core 8, Radzen Blazor e Entity Framework Core**.
-<br/>
-📘 Aprendendo mais sobre: **C#**, **.NET Core 9**, **React [JS, TS e Native]**, **Node.js** e **Kotlin [Jetpack Compose]**.
+Sou desenvolvedor apaixonado por tecnologia, especialmente focado em desenvolvimento web e aplicações móveis.  
 
 ---
 
@@ -19,8 +13,14 @@ Meu nome é Leonardo, sou um desenvolvedor apaixonado por tecnologia, especialme
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardolopesb&layout=compact&langs_count=8&theme=tokyonight" width="600" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardolopesb&layout=compact&langs_count=8&theme=tokyonight" height="250" />
 </p>
+
+🎯 Atualmente trabalhando como estagiário em **Full Stack** no **Tribunal de Justiça de Pernambuco**.
+<br/>
+💻 Linguagens utilizadas: **C#, .NET Core 8, Radzen Blazor e Entity Framework Core**.
+<br/>
+📘 Aprendendo mais sobre: **C#**, **.NET Core 9**, **React [JS, TS e Native]**, **Node.js** e **Kotlin [Jetpack Compose]**.
 
 ---
 
