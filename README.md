@@ -1,4 +1,4 @@
-# 👋 Olá! Meu nome é Leonardo
+# 👋 Bem-vindo!
 
 Sou desenvolvedor apaixonado por tecnologia, especialmente focado em desenvolvimento web e aplicações móveis.  
 
