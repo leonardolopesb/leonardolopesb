@@ -1,6 +1,6 @@
 # 👋 Bem-vindo!
 
-Sou desenvolvedor apaixonado por tecnologia, especialmente focado em desenvolvimento web e aplicações móveis.  
+Chamo-me Leonardo e sou desenvolvedor apaixonado por tecnologia. Em programação, meu foco principal consiste no desenvolvimento web e nas aplicações móveis.
 
 ---
 
@@ -16,6 +16,7 @@ Sou desenvolvedor apaixonado por tecnologia, especialmente focado em desenvolvim
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardolopesb&layout=compact&langs_count=8&theme=tokyonight" height="250" />
 </p>
 
+<br/>
 🎯 Atualmente trabalhando como estagiário em **Full Stack** no **Tribunal de Justiça de Pernambuco**.
 <br/>
 💻 Linguagens utilizadas: **C#, .NET Core 8, Radzen Blazor e Entity Framework Core**.
