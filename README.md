@@ -17,11 +17,11 @@ Chamo-me Leonardo e sou desenvolvedor apaixonado por tecnologia. Em programaçã
 </p>
 
 <br/>
-🎯 Atualmente trabalhando como estagiário em **Full Stack** no **Tribunal de Justiça de Pernambuco**.
+🎯 Atualmente trabalhando como estagiário em Full Stack no Tribunal de Justiça de Pernambuco.
 <br/>
-💻 Linguagens utilizadas: **C#, .NET Core 8, Radzen Blazor e Entity Framework Core**.
+💻 Linguagens utilizadas: C#, .NET Core 8, Radzen Blazor e Entity Framework Core.
 <br/>
-📘 Aprendendo mais sobre: **C#**, **.NET Core 9**, **React [JS, TS e Native]**, **Node.js** e **Kotlin [Jetpack Compose]**.
+📘 Aprendendo mais sobre: C#, .NET Core 9, React [JS, TS e Native], Node.js e Kotlin [Jetpack Compose].
 
 ---
 
