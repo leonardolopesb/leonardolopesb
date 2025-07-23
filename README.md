@@ -31,7 +31,7 @@ Chamo-me Leonardo e sou desenvolvedor apaixonado por tecnologia. Em programaçã
 - 💻 [Automação e Scraping](https://github.com/leonardolopesb/scraper_BGC) – Pesquisa profunda de dados na internet, utilizando-se do JS a biblioteca Puppeteer.
 - 📱 [Pedra, papel ou tesoura?](https://github.com/leonardolopesb/JokenPo) – Aplicativo Android com Kotlin, XML e SQLite.
 - ⚖️ [TJPE /ajuda](https://www.tjpe.jus.br/ajuda/) 🔜 – Reformulação de um novo site moderno com C#, .NET Core 8, Radzen Blazor e Entity Framework Core.
-- 🏎️ [Mario Kart](https://github.com/leonardolopesb/Mario-Kart-DIO) – Um mini-jogo de corrida consolidado em Node.js e seus fundamentos com personagens inspirados no universo do Mario.
+- 🏎️ [Mario Kart](https://github.com/leonardolopesb/Mario-Kart-DIO) – Um mini-jogo de corrida consolidado em Node.js com personagens inspirados no universo do Mario.
 
 ---
 
