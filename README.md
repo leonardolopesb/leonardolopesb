@@ -1,6 +1,6 @@
 # 👋 Bem-vindo!
 
-Chamo-me Leonardo e sou desenvolvedor apaixonado por tecnologia. Em programação, meu foco principal consiste no desenvolvimento web e nas aplicações móveis.
+Recifense, alvirrubro e programador :D
 
 ---
 
