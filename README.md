@@ -6,11 +6,11 @@ Eu sou recifense, alvirrubro e programador! Vamos juntos?
 
 ## 🚀 Tecnologias e Ferramentas
 
-![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nodejs,html,css,git,github,kotlin,androidstudio,vscode,figma)
+![Tecnologias e Ferramentas](https://skillicons.dev/icons?i=cs,dotnet,js,ts,nodejs,react,kotlin,html,css,git,github,androidstudio,vscode,figma)
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardolopesb&custom_title=Desenvolvedor%20C%23%20e%20%20React&layout=donut&langs_count=6&theme=tokyonight&line_height=8&hide=java,css"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardolopesb&custom_title=Desenvolvedor%20C%23,%20%20React%20e%20%20Kotlin&layout=donut&langs_count=6&theme=tokyonight&line_height=8&hide=java,css"/>
 </p>
 
 <br/>
