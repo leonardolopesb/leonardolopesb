@@ -1,25 +1,22 @@
-# 👋 Bem-vindo!
+# 👋 Bem-vindo ao meu perfil! :D
 
-Recifense, alvirrubro e programador :D
+Eu sou recifense, alvirrubro e programador! Vamos juntos?
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## 🚀 Tecnologias e Ferramentas
 
 ![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nodejs,html,css,git,github,kotlin,androidstudio,vscode,figma)
 
 ---
-
-## 📊 Estatísticas do GitHub
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardolopesb&layout=compact&langs_count=8&theme=tokyonight" height="250" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardolopesb&custom_title=Desenvolvedor%20C%23%20e%20%20React&layout=donut&langs_count=6&theme=tokyonight&line_height=8&hide=java,css"/>
 </p>
 
 <br/>
-🎯 Atualmente trabalhando como estagiário em Full Stack no Tribunal de Justiça de Pernambuco.
+🎯 Atualmente trabalhando como estagiário Full Stack no Tribunal de Justiça de Pernambuco.
 <br/>
-💻 Linguagens utilizadas: C#, .NET Core 8, Radzen Blazor e Entity Framework Core.
+💻 Linguagem utilizada: C# (.NET Core 8, Radzen Blazor, requisições de API e Entity Framework Core).
 <br/>
 📘 Aprendendo mais sobre: C#, .NET Core 9, React [JS, TS e Native], Node.js e Kotlin [Jetpack Compose].
 
@@ -32,6 +29,7 @@ Recifense, alvirrubro e programador :D
 - 📱 [Pedra, papel ou tesoura?](https://github.com/leonardolopesb/JokenPo) – Aplicativo Android com Kotlin, XML e SQLite.
 - ⚖️ [TJPE /ajuda](https://www.tjpe.jus.br/ajuda/) 🔜 – Reformulação de um novo site moderno com C#, .NET Core 8, Radzen Blazor e Entity Framework Core.
 - 🏎️ [Mario Kart](https://github.com/leonardolopesb/Mario-Kart-DIO) – Um mini-jogo de corrida consolidado em Node.js com personagens inspirados no universo do Mario.
+- ⚛️ [Mobile First](https://github.com/leonardolopesb/my-react-app) – Projeto para exercitar conceitos de React + TypeScript com foco em Mobile First.
 
 ---
 
