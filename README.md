@@ -10,7 +10,7 @@ Eu sou recifense, alvirrubro e programador! Vamos juntos?
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardolopesb&custom_title=Desenvolvedor%20C%23,%20%20React%20e%20%20Kotlin&layout=donut&langs_count=6&theme=tokyonight&line_height=8&hide=java,css"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardolopesb&custom_title=Desenvolvedor%20Full-Stack&layout=donut&langs_count=6&theme=tokyonight&line_height=8&hide=java,css"/>
 </p>
 
 <br/>
